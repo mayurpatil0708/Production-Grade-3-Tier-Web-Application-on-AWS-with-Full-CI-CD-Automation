@@ -1,6 +1,6 @@
 ---
 
-```md
+
 # 🚀 AWS 3-Tier Architecture with CI/CD, Auto Scaling & Load Balancing
 
 This project demonstrates a **production-style deployment of a full-stack application on AWS** using a **3-tier architecture integrated with CI/CD pipelines and Auto Scaling**.

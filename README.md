@@ -204,7 +204,6 @@ Benefits:
 
 ## ⚠️ Current Limitations
 
-- Single NAT Gateway (cost optimization, not HA)
 - IAM roles use broad permissions (can be restricted further)
 
 ---
@@ -215,7 +214,6 @@ Benefits:
 - Add Route53 (custom domain)
 - Implement HTTPS (SSL/TLS)
 - Use least-privilege IAM roles
-- Multi-AZ NAT Gateways for high availability
 - Add monitoring alerts (CloudWatch Alarms)
 
 ---

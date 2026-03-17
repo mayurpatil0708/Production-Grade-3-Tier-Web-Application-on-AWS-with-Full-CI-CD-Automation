@@ -1,3 +1,5 @@
+---
+
 ```md
 # 🚀 AWS 3-Tier Architecture with CI/CD, Auto Scaling & Load Balancing
 
@@ -238,4 +240,5 @@ Final Year IT Student | DevOps & Cloud Enthusiast
 ## ⭐ If you found this helpful, consider giving it a star!
 ```
 
+---
 
